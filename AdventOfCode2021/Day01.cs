@@ -15,16 +15,16 @@ namespace AdventOfCode2021
         public override long SolvePart1()
         {
             int numberOfTimesDepthMeasurementIncreases = 0;
-            int lasDepthMeasurement = int.MaxValue;
+            int lastDepthMeasurement = int.MaxValue;
 
             foreach (int depthMeasurement in this.depthMeasurements)
             {
-                if (lasDepthMeasurement < depthMeasurement)
+                if (lastDepthMeasurement < depthMeasurement)
                 {
                     numberOfTimesDepthMeasurementIncreases++;
                 }
 
-                lasDepthMeasurement = depthMeasurement;
+                lastDepthMeasurement = depthMeasurement;
             }
 
             return numberOfTimesDepthMeasurementIncreases;
@@ -32,7 +32,24 @@ namespace AdventOfCode2021
 
         public override long SolvePart2()
         {
-            return -1;
+            int numberOfTimesSumOfMeasurementsInSlidingWindowIncreases = 0;
+            int lastSum = int.MaxValue;
+
+            for (int i = 2; i < this.depthMeasurements.Count(); i++)
+            {
+                int currentSum = depthMeasurements.ElementAt(i)
+                    + depthMeasurements.ElementAt(i - 1)
+                    + depthMeasurements.ElementAt(i - 2);
+
+                if (lastSum < currentSum)
+                {
+                    numberOfTimesSumOfMeasurementsInSlidingWindowIncreases++;
+                }
+
+                lastSum = currentSum;
+            }
+
+            return numberOfTimesSumOfMeasurementsInSlidingWindowIncreases;
         }
     }
 }

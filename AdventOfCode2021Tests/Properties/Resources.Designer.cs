@@ -181,7 +181,7 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to 1575.
         /// </summary>
         internal static string Day01Part2Output {
             get {
