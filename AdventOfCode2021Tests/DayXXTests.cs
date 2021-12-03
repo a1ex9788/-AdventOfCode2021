@@ -14,9 +14,9 @@ namespace AdventOfCode2021Tests
 
         [TestMethod]
         [DataRow("\r\n", -1)]
-        public void SolvePart1Test(string numbersList, int expectedResult)
+        public void SolvePart1Test(string input, int expectedResult)
         {
-            Assert.AreEqual(expectedResult, new DayXX(numbersList).SolvePart1());
+            Assert.AreEqual(expectedResult, new DayXX(input).SolvePart1());
         }
     }
 }
