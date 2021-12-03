@@ -1,8 +1,10 @@
-﻿namespace AdventOfCode2021
+﻿using System.Collections.Generic;
+
+namespace AdventOfCode2021
 {
     public class DayXX : Solver
     {
-        private readonly string[] input;
+        private readonly IEnumerable<string> input;
 
         public DayXX(string input)
         {
