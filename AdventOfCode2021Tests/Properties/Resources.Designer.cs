@@ -190,6 +190,91 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to forward 6
+        ///forward 6
+        ///down 6
+        ///down 5
+        ///up 2
+        ///forward 4
+        ///forward 8
+        ///up 9
+        ///forward 3
+        ///down 1
+        ///forward 2
+        ///forward 3
+        ///down 1
+        ///down 3
+        ///down 3
+        ///forward 9
+        ///down 6
+        ///forward 1
+        ///up 5
+        ///down 1
+        ///forward 8
+        ///forward 7
+        ///up 8
+        ///forward 7
+        ///down 9
+        ///forward 5
+        ///forward 4
+        ///forward 2
+        ///down 3
+        ///down 6
+        ///down 6
+        ///down 5
+        ///forward 5
+        ///forward 4
+        ///forward 8
+        ///up 3
+        ///forward 6
+        ///down 4
+        ///up 2
+        ///forward 8
+        ///forward 6
+        ///forward 1
+        ///up 2
+        ///down 9
+        ///down 9
+        ///up 5
+        ///down 1
+        ///up 1
+        ///up 3
+        ///forward 2
+        ///forward 4
+        ///down 8
+        ///down 1
+        ///up 1
+        ///up 4
+        ///up 1
+        ///up 2
+        ///forward 4
+        ///d [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Day02Input {
+            get {
+                return ResourceManager.GetString("Day02Input", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1815044.
+        /// </summary>
+        internal static string Day02Part1Output {
+            get {
+                return ResourceManager.GetString("Day02Part1Output", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1739283308.
+        /// </summary>
+        internal static string Day02Part2Output {
+            get {
+                return ResourceManager.GetString("Day02Part2Output", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to -1.
         /// </summary>
         internal static string DayXXInput {
