@@ -13,13 +13,13 @@ namespace AdventOfCode2021Tests
         protected abstract string Part2Output { get; }
 
         [TestMethod]
-        public void Part1Test()
+        public void DefaultSolvePart1Test()
         {
             Assert.AreEqual(Convert.ToInt64(this.Part1Output), this.Solver.SolvePart1());
         }
 
         [TestMethod]
-        public void Part2Test()
+        public void DefaultSolvePart2Test()
         {
             Assert.AreEqual(Convert.ToInt64(this.Part2Output), this.Solver.SolvePart2());
         }
