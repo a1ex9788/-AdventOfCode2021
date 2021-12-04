@@ -275,6 +275,69 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 011111111100
+        ///100001011111
+        ///011010010010
+        ///100110110110
+        ///001000110001
+        ///110010001010
+        ///110000010010
+        ///010110100110
+        ///000101000110
+        ///100101010010
+        ///101000100011
+        ///001100011000
+        ///111100100011
+        ///000000110111
+        ///001000000010
+        ///000000001110
+        ///000000001001
+        ///010111010000
+        ///100010100010
+        ///010110100000
+        ///111111101001
+        ///001011100001
+        ///111011110110
+        ///011010110011
+        ///101110011011
+        ///010100111101
+        ///010100000011
+        ///101001011000
+        ///000011011100
+        ///101101010000
+        ///100110110011
+        ///101001111001
+        ///011111001100
+        ///010110000100
+        ///100000111011
+        ///111110011110
+        ///11001100 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Day03Input {
+            get {
+                return ResourceManager.GetString("Day03Input", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 2250414.
+        /// </summary>
+        internal static string Day03Part1Output {
+            get {
+                return ResourceManager.GetString("Day03Part1Output", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 6085575.
+        /// </summary>
+        internal static string Day03Part2Output {
+            get {
+                return ResourceManager.GetString("Day03Part2Output", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to -1.
         /// </summary>
         internal static string DayXXInput {
