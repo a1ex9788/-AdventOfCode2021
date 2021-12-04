@@ -338,7 +338,24 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to 69,88,67,56,53,97,46,29,37,51,3,93,92,78,41,22,45,66,13,82,2,7,52,40,18,70,32,95,89,64,84,68,83,26,43,0,61,36,57,34,80,39,6,63,72,98,21,54,23,28,65,16,76,11,20,33,96,4,10,25,30,19,90,24,55,91,15,8,71,99,58,14,60,48,44,17,47,85,74,87,86,27,42,38,81,79,94,73,12,5,77,35,9,62,50,31,49,59,75,1
+        ///
+        ///78 27 82 68 20
+        ///14  2 34 51  7
+        ///58 57 99 37 81
+        /// 9  4  0 76 45
+        ///67 69 70 17 23
+        ///
+        ///38 60 62 34 41
+        ///39 58 91 45 10
+        ///66 74 94 50 17
+        ///68 27 75 97 49
+        ///36 64  5 98 15
+        ///
+        ///17 50 13 53 20
+        ///68 57 76 10 86
+        /// 2 91 67 27 11
+        ///94 70 8 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Day04Input {
             get {
@@ -347,7 +364,7 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to 8580.
         /// </summary>
         internal static string Day04Part1Output {
             get {
@@ -356,7 +373,7 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to 9576.
         /// </summary>
         internal static string Day04Part2Output {
             get {
