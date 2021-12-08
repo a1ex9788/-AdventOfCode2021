@@ -382,7 +382,32 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to 309,347 -&gt; 309,464
+        ///425,687 -&gt; 300,687
+        ///226,766 -&gt; 885,107
+        ///681,618 -&gt; 921,378
+        ///968,54 -&gt; 38,984
+        ///35,341 -&gt; 321,627
+        ///493,485 -&gt; 632,485
+        ///908,183 -&gt; 110,981
+        ///677,378 -&gt; 677,231
+        ///703,378 -&gt; 703,536
+        ///179,581 -&gt; 429,331
+        ///339,133 -&gt; 664,458
+        ///212,680 -&gt; 212,136
+        ///251,699 -&gt; 858,699
+        ///163,725 -&gt; 163,22
+        ///70,226 -&gt; 97,226
+        ///968,119 -&gt; 954,119
+        ///551,551 -&gt; 415,551
+        ///768,167 -&gt; 546,167
+        ///125,302 -&gt; 155,332
+        ///640,201 -&gt; 341,201
+        ///757,791 -&gt; 757,736
+        ///406,570 -&gt; 418,558
+        ///250,919 -&gt; 976,193
+        ///570,362 -&gt; 304,96
+        ///463,973 -&gt; 463,337        /// [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Day05Input {
             get {
@@ -391,7 +416,7 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to 6113.
         /// </summary>
         internal static string Day05Part1Output {
             get {
@@ -400,7 +425,7 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to 20373.
         /// </summary>
         internal static string Day05Part2Output {
             get {
