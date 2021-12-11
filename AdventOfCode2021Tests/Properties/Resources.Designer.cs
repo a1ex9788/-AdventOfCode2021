@@ -461,7 +461,7 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to 1101,1,29,67,1102,0,1,65,1008,65,35,66,1005,66,28,1,67,65,20,4,0,1001,65,1,65,1106,0,8,99,35,67,101,99,105,32,110,39,101,115,116,32,112,97,115,32,117,110,101,32,105,110,116,99,111,100,101,32,112,114,111,103,114,97,109,10,273,102,514,428,300,13,9,457,92,169,1654,471,479,178,158,124,354,83,705,30,80,199,632,31,840,580,1228,1597,151,1374,1665,469,43,1113,103,1,1456,132,2,618,423,824,789,145,485,585,543,694,1266,866,1276,726,680,1714,503,79,137,208,8,1447,455,33,1098,1346,1028,178,1095,21,19,52,668,29,382,1659, [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Day07Input {
             get {
@@ -488,7 +488,13 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to gea agfcbe egcbfd aecb cegbf cafgde fgeba ea gabdf begfdca | bcfeg ea fbdga fbgcdae
+        ///gbcd gce fedgba edafgc cafbe febgc febgcd cg egbdf dgcefab | ceg cfdgae bdcg cdgfbe
+        ///eaf cfade afgebc cdegfa abcfd feagcdb dfbgce ae dcefg dage | eaf cdgefb fea bfacd
+        ///faegbdc fagcde dbcfg ecgfb afegc gbe abec bgfcea eb befagd | afcge egb cgfbd bace
+        ///caegb fcaged ce gafcb gfcabe egdfcba acdfbg eca dbgea bcfe | gedbcaf ec ce fegacbd
+        ///bcegad beag agcbd ged degcabf dcaegf fecdb eg dbgfca dgbec | gcdebaf gde bacgd egcdaf
+        ///cbgef [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Day08Input {
             get {
@@ -515,7 +521,12 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to 0197653456789987679545987978921245689901497654212455689767899878999979653246892123569876467899212346
+        ///9989542349899986578959976557890134599892398943201234678956789467989867932135789012398764345678923456
+        ///8679931298999765459898765445921247987689459865432345889345892399876546899013894123459976569799634577
+        ///6567895497998764345789543239895456797535967976545467891234989989865434598954993248969987678999545798
+        ///8456897986539975234568955398789967998212899597676578910395678979996423987895789356798698799997656789
+        ///73 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Day09Input {
             get {
@@ -542,7 +553,11 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to {[&lt;([&lt;[[(&lt;[({&lt;&lt;&gt;&lt;&gt;&gt;&lt;()[]&gt;}&lt;(()())(())&gt;)&lt;(([]())){&lt;()()&gt;&lt;{}&lt;&gt;)}&gt;][(((()&lt;&gt;)[{}{}]){&lt;[]&lt;&gt;&gt;({}{})})]&gt;)[(({([{}[]]
+        ///{{[[(&lt;[[[&lt;[&lt;&lt;{()()}(&lt;&gt;{})&gt;[&lt;&lt;&gt;&lt;&gt;&gt;[[]]]&gt;[{{[]&lt;&gt;}[[]]}&lt;&lt;[]{}&gt;[&lt;&gt;[]]&gt;]]([[[{}&lt;&gt;]]&lt;&lt;()[]&gt;{()&lt;&gt;}&gt;]([&lt;&lt;
+        ///([&lt;{[[{{((([(&lt;[]&lt;&gt;&gt;{[]&lt;&gt;})&lt;([]){&lt;&gt;{}}&gt;][([&lt;&gt;[]][[]{}])])[[{{()[]}&lt;()[]&gt;}&lt;{(){}}&gt;]]]&lt;{(&lt;[{}&lt;
+        ///(({(&lt;{(([&lt;[({([]())(&lt;&gt;())}{([]{})[{}{}]})]{(({{}()}{&lt;&gt;()}](&lt;[]&lt;&gt;&gt;(()[])))({[[]{}]&lt;[]&lt;&gt;&gt;})}&gt;[[[{&lt;&lt;&gt;[]&gt;(()
+        ///[([&lt;([{({{[{[([]{})[{}[]]][[{}{})]}&lt;([&lt;&gt;{}]&lt;&lt;&gt;()&gt;)&gt;]}([&lt;{[()&lt;&gt;]{()&lt;&gt;}}[[{}{}]&lt;(){}&gt;]&gt;&lt;{{{}[]}[()&lt;&gt;]}[{{ [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Day10Input {
             get {
@@ -569,7 +584,16 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to 3265255276
+        ///1537412665
+        ///7335746422
+        ///6426325658
+        ///3854434364
+        ///8717377486
+        ///4522286326
+        ///6337772845
+        ///8824387665
+        ///6351586484.
         /// </summary>
         internal static string Day11Input {
             get {
