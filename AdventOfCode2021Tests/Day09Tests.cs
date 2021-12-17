@@ -13,14 +13,14 @@ namespace AdventOfCode2021Tests
         protected override string Part2Output => Resources.Day09Part2Output;
 
         [TestMethod]
-        [DataRow("\r\n", -1)]
+        [DataRow("2199943210\r\n3987894921\r\n9856789892\r\n8767896789\r\n9899965678", 15)]
         public void SolvePart1Test(string input, int expectedResult)
         {
             Assert.AreEqual(expectedResult, new Day09(input).SolvePart1());
         }
 
         [TestMethod]
-        [DataRow("\r\n", -1)]
+        [DataRow("2199943210\r\n3987894921\r\n9856789892\r\n8767896789\r\n9899965678", 1134)]
         public void SolvePart2Test(string input, int expectedResult)
         {
             Assert.AreEqual(expectedResult, new Day09(input).SolvePart2());
