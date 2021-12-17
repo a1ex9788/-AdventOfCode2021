@@ -13,14 +13,14 @@ namespace AdventOfCode2021Tests
         protected override string Part2Output => Resources.Day10Part2Output;
 
         [TestMethod]
-        [DataRow("\r\n", -1)]
+        [DataRow("[({(<(())[]>[[{[]{<()<>>\r\n[(()[<>])]({[<{<<[]>>(\r\n{([(<{}[<>[]}>{[]{[(<()>\r\n(((({<>}<{<{<>}{[]{[]{}\r\n[[<[([]))<([[{}[[()]]]\r\n[{[{({}]{}}([{[{{{}}([]\r\n{<[[]]>}<{[{[{[]{()[[[]\r\n[<(<(<(<{}))><([]([]()\r\n<{([([[(<>()){}]>(<<{{\r\n<{([{{}}[<[[[<>{}]]]>[]]", 26397)]
         public void SolvePart1Test(string input, int expectedResult)
         {
             Assert.AreEqual(expectedResult, new Day10(input).SolvePart1());
         }
 
         [TestMethod]
-        [DataRow("\r\n", -1)]
+        [DataRow("[({(<(())[]>[[{[]{<()<>>\r\n[(()[<>])]({[<{<<[]>>(\r\n{([(<{}[<>[]}>{[]{[(<()>\r\n(((({<>}<{<{<>}{[]{[]{}\r\n[[<[([]))<([[{}[[()]]]\r\n[{[{({}]{}}([{[{{{}}([]\r\n{<[[]]>}<{[{[{[]{()[[[]\r\n[<(<(<(<{}))><([]([]()\r\n<{([([[(<>()){}]>(<<{{\r\n<{([{{}}[<[[[<>{}]]]>[]]", 288957)]
         public void SolvePart2Test(string input, int expectedResult)
         {
             Assert.AreEqual(expectedResult, new Day10(input).SolvePart2());
