@@ -647,7 +647,63 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to 957,648
+        ///617,33
+        ///915,323
+        ///760,515
+        ///82,365
+        ///1206,634
+        ///959,231
+        ///74,324
+        ///552,785
+        ///597,740
+        ///33,226
+        ///765,871
+        ///1195,407
+        ///1036,653
+        ///308,789
+        ///880,337
+        ///550,379
+        ///1084,71
+        ///750,308
+        ///914,227
+        ///922,861
+        ///492,569
+        ///1300,796
+        ///570,301
+        ///366,379
+        ///252,794
+        ///340,424
+        ///1019,550
+        ///443,407
+        ///1298,22
+        ///216,179
+        ///713,740
+        ///492,325
+        ///736,284
+        ///1004,589
+        ///716,189
+        ///293,205
+        ///560,751
+        ///396,59
+        ///1102,415
+        ///398,396
+        ///750,695
+        ///584,765
+        ///1143,849
+        ///398,834
+        ///28,213
+        ///291,446
+        ///587,327
+        ///582,376
+        ///798,393
+        ///126,826
+        ///422,527
+        ///274,345
+        ///877,873
+        ///684,661
+        ///1118,36
+        ///348,44 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Day13Input {
             get {
@@ -656,7 +712,7 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to 735.
         /// </summary>
         internal static string Day13Part1Output {
             get {
@@ -665,7 +721,7 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to 99.
         /// </summary>
         internal static string Day13Part2Output {
             get {
