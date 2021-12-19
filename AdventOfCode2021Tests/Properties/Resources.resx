@@ -6610,10 +6610,111 @@ fold along y=6</value>
     <value>99</value>
   </data>
   <data name="Day14Input" xml:space="preserve">
-    <value>-1</value>
+    <value>HHKONSOSONSVOFCSCNBC
+
+OO -&gt; N
+VK -&gt; B
+KS -&gt; N
+PK -&gt; H
+FB -&gt; H
+BF -&gt; S
+BB -&gt; V
+KO -&gt; N
+SP -&gt; K
+HK -&gt; O
+PV -&gt; K
+BP -&gt; O
+VO -&gt; V
+OP -&gt; C
+BS -&gt; V
+OK -&gt; V
+KN -&gt; H
+KC -&gt; N
+PP -&gt; F
+NB -&gt; V
+CH -&gt; V
+HO -&gt; K
+PN -&gt; H
+SS -&gt; O
+CK -&gt; P
+VV -&gt; K
+FN -&gt; O
+BH -&gt; B
+SC -&gt; B
+HH -&gt; P
+FO -&gt; O
+CC -&gt; H
+OS -&gt; H
+FP -&gt; S
+HC -&gt; F
+BO -&gt; F
+CF -&gt; S
+NC -&gt; S
+HS -&gt; V
+KF -&gt; O
+ON -&gt; C
+CN -&gt; K
+VF -&gt; F
+NO -&gt; K
+CP -&gt; N
+HF -&gt; K
+CV -&gt; N
+HN -&gt; K
+VH -&gt; B
+KK -&gt; P
+CS -&gt; O
+VS -&gt; P
+NH -&gt; F
+CB -&gt; S
+BV -&gt; P
+FK -&gt; F
+NV -&gt; O
+OV -&gt; K
+SB -&gt; N
+NF -&gt; O
+VN -&gt; S
+OH -&gt; O
+PS -&gt; N
+HB -&gt; H
+SV -&gt; V
+CO -&gt; H
+SO -&gt; P
+FV -&gt; N
+PF -&gt; O
+NN -&gt; S
+KB -&gt; P
+NP -&gt; F
+OC -&gt; S
+FS -&gt; P
+FH -&gt; P
+VP -&gt; K
+BN -&gt; O
+NS -&gt; H
+VB -&gt; V
+PO -&gt; K
+KP -&gt; N
+SN -&gt; O
+BC -&gt; H
+SF -&gt; V
+PC -&gt; O
+NK -&gt; F
+BK -&gt; V
+KH -&gt; S
+SH -&gt; S
+SK -&gt; H
+OB -&gt; V
+PH -&gt; N
+PB -&gt; C
+HV -&gt; N
+HP -&gt; V
+FF -&gt; B
+OF -&gt; P
+VC -&gt; S
+KV -&gt; C
+FC -&gt; F</value>
   </data>
   <data name="Day14Part1Output" xml:space="preserve">
-    <value>-1</value>
+    <value>2657</value>
   </data>
   <data name="Day14Part2Output" xml:space="preserve">
     <value>-1</value>

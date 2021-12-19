@@ -730,7 +730,63 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to HHKONSOSONSVOFCSCNBC
+        ///
+        ///OO -&gt; N
+        ///VK -&gt; B
+        ///KS -&gt; N
+        ///PK -&gt; H
+        ///FB -&gt; H
+        ///BF -&gt; S
+        ///BB -&gt; V
+        ///KO -&gt; N
+        ///SP -&gt; K
+        ///HK -&gt; O
+        ///PV -&gt; K
+        ///BP -&gt; O
+        ///VO -&gt; V
+        ///OP -&gt; C
+        ///BS -&gt; V
+        ///OK -&gt; V
+        ///KN -&gt; H
+        ///KC -&gt; N
+        ///PP -&gt; F
+        ///NB -&gt; V
+        ///CH -&gt; V
+        ///HO -&gt; K
+        ///PN -&gt; H
+        ///SS -&gt; O
+        ///CK -&gt; P
+        ///VV -&gt; K
+        ///FN -&gt; O
+        ///BH -&gt; B
+        ///SC -&gt; B
+        ///HH -&gt; P
+        ///FO -&gt; O
+        ///CC -&gt; H
+        ///OS -&gt; H
+        ///FP -&gt; S
+        ///HC -&gt; F
+        ///BO -&gt; F
+        ///CF -&gt; S
+        ///NC -&gt; S
+        ///HS -&gt; V
+        ///KF -&gt; O
+        ///ON -&gt; C
+        ///CN -&gt; K
+        ///VF -&gt; F
+        ///NO -&gt; K
+        ///CP -&gt; N
+        ///HF -&gt; K
+        ///CV -&gt; N
+        ///HN -&gt; K
+        ///VH -&gt; B
+        ///KK -&gt; P
+        ///CS -&gt; O
+        ///VS -&gt; P
+        ///NH -&gt; F
+        ///CB -&gt; S
+        ///BV [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Day14Input {
             get {
@@ -739,7 +795,7 @@ namespace AdventOfCode2021Tests.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to -1.
+        ///   Looks up a localized string similar to 2657.
         /// </summary>
         internal static string Day14Part1Output {
             get {
