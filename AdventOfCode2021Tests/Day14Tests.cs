@@ -21,7 +21,7 @@ namespace AdventOfCode2021Tests
 
         [TestMethod]
         [DataRow("NNCB\r\n\r\nCH -> B\r\nHH -> N\r\nCB -> H\r\nNH -> C\r\nHB -> C\r\nHC -> B\r\nHN -> C\r\nNN -> C\r\nBH -> H\r\nNC -> B\r\nNB -> B\r\nBN -> B\r\nBB -> N\r\nBC -> B\r\nCC -> N\r\nCN -> C", 2188189693529)]
-        public void SolvePart2Test(string input, int expectedResult)
+        public void SolvePart2Test(string input, long expectedResult)
         {
             Assert.AreEqual(expectedResult, new Day14(input).SolvePart2());
         }
